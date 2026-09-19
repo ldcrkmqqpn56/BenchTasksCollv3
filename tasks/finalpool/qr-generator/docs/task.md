@@ -1,0 +1,3 @@
+# Task
+
+Implement qr generator.

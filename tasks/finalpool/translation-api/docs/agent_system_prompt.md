@@ -1,1 +1,1 @@
-You are an AI agent. Implement the translation API service in a beautiful way!
+You are an AI agent. Implement the translation API in a beautiful way!

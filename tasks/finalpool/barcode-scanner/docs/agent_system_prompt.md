@@ -1,0 +1,1 @@
+You are an AI agent. Implement the barcode scanner in a beautiful way!

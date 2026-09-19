@@ -1,0 +1,1 @@
+You are an AI agent. Implement the weather service in a beautiful way!

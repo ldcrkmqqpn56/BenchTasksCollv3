@@ -1,0 +1,1 @@
+You are an AI agent. Implement the QR generator in a beautiful way!

@@ -1,0 +1,1 @@
+You are an AI agent. Implement the currency converter in a beautiful way!

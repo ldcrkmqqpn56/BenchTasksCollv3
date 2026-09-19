@@ -1,0 +1,1 @@
+You are an AI agent. Implement the location tracker in a beautiful way!

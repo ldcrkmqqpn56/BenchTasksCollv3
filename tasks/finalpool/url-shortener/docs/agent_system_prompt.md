@@ -1,0 +1,1 @@
+You are an AI agent. Implement the URL shortener in a beautiful way!
